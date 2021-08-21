@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Archana Dash
-- 📫 How to reach me :https://www.linkedin.com/in/archana-dash-0210ab203/
-- 🌱 Languages I use : C , C++ , Python 
+- 👋 **Hi, I’m Archana Dash**
+- 📫 **How to reach me :** https://www.linkedin.com/in/archana-dash-0210ab203/
+- 🌱 **Languages I use : C , C++ , Python**
 
 
 <!---
@@ -8,4 +8,4 @@ I-ArchanaDash/I-ArchanaDash is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-HAVE A NICE DAY AHEAD !!
+THANKS FOR VISITING , HAVE A NICE DAY AHEAD !!
