@@ -1,5 +1,5 @@
 - 👋 **Hi, I’m Archana Dash**
-- 📫 **How to reach me :** https://www.linkedin.com/in/archana-dash-0210ab203/
+- 📫 **How to reach me :** [Linkedin](https://www.linkedin.com/in/archana-dash-0210ab203/) 
 - 🌱 **Languages I use : C , C++ , Python**
 
 
