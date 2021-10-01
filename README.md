@@ -1,9 +1,16 @@
 # Hello World ,I'm Archana Dash 👋. Welcome to my Profile !!!
-- 
+
 - 📫 **How to reach me :**</br> 
-      [Linkedin](https://www.linkedin.com/in/archana-dash-0210ab203/) 
+
+    -  [Linkedin](https://www.linkedin.com/in/archana-dash-0210ab203/)
+    -  [twitter](https://twitter.com/archana__dash)
 - 🌱 **Languages I use :**</br>
-  - C , C++ , Python ,HTML,CSS
+
+   - C
+   - C++
+   - Python
+   - HTML
+   - CSS
 
 
 <!---
