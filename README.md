@@ -35,7 +35,7 @@
     
 <div align="center">
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
-    <br><strong>THANKS FOR VISITING , HAVE A NICE DAY AHEAD !!</strong><br>
+    <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
 
 <!---
