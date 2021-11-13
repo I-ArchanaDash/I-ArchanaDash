@@ -6,19 +6,18 @@
 [![Linkedin: archana--dash](https://img.shields.io/badge/-archana--dash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archana--dash/)](https://www.linkedin.com/in/archana--dash/)
  ![view count](https://komarev.com/ghpvc/?username=I-ArchanaDash&color=b1eb34)
 </div> 
-
+<p>&nbsp;</p>
 <div align="center">
-    <h2>Languages and Tools</h2>
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-    <a href="https://getbootstrap.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://git-scm.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-    </a> 
+<h2>Languages and Tools</h2>
+    
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=plastic)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
 </div>
 
 <code>
@@ -35,9 +34,9 @@
  
 <div align="center">
   <br>
-  <p><br>If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
-  <a href="mailto:iarchanadash@gmail.com">
-      <img width="20px" src="" />
+  <p><br>If you have any queries or just wanna say Hi, <br><b>MAIL ME</b>&nbsp;
+  <a href="mailto:iarchanadash@gmail.com"><br>
+      <img width="30px" src="assets/gmail.svg"/>
   </a></p>
 </div>    
     
