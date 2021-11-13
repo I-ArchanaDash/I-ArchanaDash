@@ -32,6 +32,14 @@
      </a>
 </code>
 <p>&nbsp;</p>    
+ 
+<div align="center">
+  <br>
+  <p><br>If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
+  <a href="mailto:iarchanadash@gmail.com">
+      <img width="20px" src="" />
+  </a></p>
+</div>    
     
 <div align="center">
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
