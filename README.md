@@ -23,15 +23,16 @@
 <code>
   <div align="center">
     <h2>Statistics</h2>
-    <a href="https://github.com/I-ArchanaDash">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=I-ArchanaDash&show_icons=true&theme=dark&line_height=27" alt="Archana's Github Stats"/>
-    </a>
-    <a href="https://github.com/I-ArchanaDash">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark&hide_langs_below=1" />
-     </a>
+       
+   ![Archana's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=I-ArchanaDash&theme=dark&show_icons=true) 
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark)  
+   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-ArchanaDash&theme=dark&hide_border=true&line_height=27&width=20)
+   ![Archana's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark&layout=compact&langs_count=8&hide_border=true)
+      <p>&nbsp;</p>
+   <img src="https://activity-graph.herokuapp.com/graph?username=I-ArchanaDash&theme=github" alt="GitHub Activity Graph" width="100%" />
+    </div>
 </code>
 <p>&nbsp;</p>    
- 
 <div align="center">
   <br>
   <p><br>If you have any queries or just wanna say Hi, <br><b>MAIL ME</b>&nbsp;
