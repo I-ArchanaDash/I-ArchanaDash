@@ -23,14 +23,11 @@
 <code>
   <div align="center">
     <h2>Statistics</h2>
-       
-   ![Archana's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=I-ArchanaDash&theme=dark&show_icons=true) 
-   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark)  
-   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-ArchanaDash&theme=dark&hide_border=true&line_height=27&width=20)
-   ![Archana's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark&layout=compact&langs_count=8&hide_border=true)
-      <p>&nbsp;</p>
-   <img src="https://activity-graph.herokuapp.com/graph?username=I-ArchanaDash&theme=github" alt="GitHub Activity Graph" width="100%" />
-    </div>
+   
+   | ![Archana's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=I-ArchanaDash&theme=dark&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark) |
+| --- | --- |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-ArchanaDash&theme=dark&hide_border=true&line_height=27&width=20) | ![Archana's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark&layout=compact&langs_count=8&hide_border=true) |   
+  </div>
 </code>
 <p>&nbsp;</p>    
 <div align="center">
