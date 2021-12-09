@@ -29,7 +29,10 @@
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-ArchanaDash&theme=dark&hide_border=true&line_height=27&width=20) | ![Archana's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark&layout=compact&langs_count=8&hide_border=true) |   
   </div>
 </code>
-  
+<br> 
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=I-ArchanaDash&theme=gotham&hide_border=true)
+<br>  
 <div align="center">
   <br>
   <p><br>If you have any queries or just wanna say Hi, <br><b>MAIL ME</b>&nbsp;
