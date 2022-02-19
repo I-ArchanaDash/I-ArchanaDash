@@ -21,6 +21,7 @@
 [![Django](https://img.shields.io/badge/Django-0b4523?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com) 
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com)
 </div>
 
 <code>
