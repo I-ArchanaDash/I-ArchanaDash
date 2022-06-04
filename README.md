@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="200">
-<h1>I'm Archana Dash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. Welcome to my Profile !!!</h1> 
+<h1>I'm Archana Dash. Welcome to my Profile !!!</h1> 
     
 [![GitHub I-ArchanaDash](https://img.shields.io/github/followers/I-ArchanaDash?label=follow&style=social)](https://github.com/I-ArchanaDash)
 [![Linkedin: archana--dash](https://img.shields.io/badge/-archana--dash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archana--dash/)](https://www.linkedin.com/in/archana--dash/)
