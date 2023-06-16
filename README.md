@@ -28,14 +28,14 @@
   <div align="center">
     <h2>Statistics</h2>
    
-   | ![Archana's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=I-ArchanaDash&theme=dark&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark) |
+| ![Archana's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=I-ArchanaDash&theme=dark&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark) |
 | --- | --- |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-ArchanaDash&theme=dark&hide_border=true&line_height=27&width=20) | ![Archana's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=I-ArchanaDash&theme=dark&layout=compact&langs_count=8&hide_border=true) |   
   </div>
 </code>
 <br> 
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=I-ArchanaDash&theme=gotham&hide_border=true)
+[![Archana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=I-ArchanaDash&theme=react-dark)](https://github.com/I-ArchanaDash/github-readme-activity-graph)
 <br>  
 <div align="center">
   <br>
